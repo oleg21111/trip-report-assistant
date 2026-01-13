@@ -54,8 +54,8 @@ No more Excel files in chats, no formula errors, and no manual calculations.
 
 ## 💼 Business Impact
 
-✅ **Full control** over business trip expenses.
-⚡️ **Fast data entry** — less than 1 minute per trip.
-📉 **Fewer errors** in calculations and reports.
-📊 **A transparent system** for employee compensation.
-🧠 **Centralized data storage** without spreadsheet chaos.
+-  ✅ **Full control** over business trip expenses.
+-  ⚡️ **Fast data entry** — less than 1 minute per trip.
+-  📉 **Fewer errors** in calculations and reports.
+-  📊 **A transparent system** for employee compensation.
+-  🧠 **Centralized data storage** without spreadsheet chaos.
